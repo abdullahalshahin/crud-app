@@ -22,3 +22,18 @@ cd frontend
 npm install
 npm start
 ```
+
+```
+https://crud-app.egsystembd.com
+
+Admin:
+email: admin@gmail.com
+password: 123456
+
+general user:
+email: user1@gmail.com
+password: 123456
+
+email: user2@gmail.com
+password: 123456
+```
