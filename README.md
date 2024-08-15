@@ -1,6 +1,6 @@
 ## Project Installation Requirements
 
-- **step-1. Cloning this project. "https://github.com/abdullahalshahin/crud-app"
+- **step-1. Cloning this project. "https://github.com/abdullahalshahin/crud-app.git"
 - **step-2. Create database "crud_app"
 - **step-3. Open this project on Code editor like Visual Studio Code.
 - **step-4. Open the Terminal and run this command step by step...
